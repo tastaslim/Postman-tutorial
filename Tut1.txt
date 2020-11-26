@@ -1,0 +1,4 @@
+What is an API?
+
+Ans: An API is an interface between a software programs and services. You can call apis which contain data
+of any service using your softwares programs/codes.
