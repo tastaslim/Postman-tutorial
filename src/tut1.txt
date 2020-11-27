@@ -1,0 +1,12 @@
+Typescript is a superset of javascript. Files with .ts extensions are written in Typescript.
+It means any valid code of js is a valid code for ts.
+
+Typescript=Javascriptstatic typing+types+ compile time check+more features;
+It basically deals with all the problems of javascript. it is an OOPS language like c# or java, developed 
+and maintained by Microsoft which supports classes, interfaces, inheritance, polymorphism etc.
+Any .ts files is first compiled and then it gets converted to .js file and then it runs anywhere. Because browsers
+only understands javascript.
+Unlike c++ or java here types are written after varibale in Typescript. eg:(age:number)
+
+We can define our own types in Typescript as well in .d.ts files and import them and use them.
+

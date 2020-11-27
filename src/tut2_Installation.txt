@@ -1,0 +1,14 @@
+Before installing typescript in your system, node must be installed in your system.
+To install Typescript in your system, you can install it as an npm package. i would recommende
+you install it globally:
+
+npm install -g typescript
+
+2. To compiple any typescript file:
+
+tsc file_name.ts
+
+3. To run any typescript file:
+This will be respective new generated file for .ts in .js form.
+ 
+node file_name.js
